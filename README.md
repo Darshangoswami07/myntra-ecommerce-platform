@@ -39,3 +39,25 @@ myntra-clone/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
+
+🚧 Work in Progress
+
+This project is under active development. Upcoming features include:
+
+👤 User authentication (login/signup)
+
+🔍 Product filters & search
+
+📦 Order summary & checkout flow
+
+📱 Responsive design for mobile devices
+
+Stay tuned for updates! 🚀
+
+
+
+📌 About
+
+This project is a practice-based clone to showcase frontend + backend integration, Redux state management, and e-commerce functionality.
+It is designed for learning and portfolio purposes.
